@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
 -- 📨 Anton@gmail.com
--- 📱 +7-900-000-00-00
+-- 📱 +7-900-000-00-01
