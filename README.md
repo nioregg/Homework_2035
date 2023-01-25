@@ -1,6 +1,4 @@
 # Homework_2035
-- 👋 Hi, I’m @nioregg
-- 💻 I'm Schoolboy
-- 👀 I’m interested in LoL, The Crew 2
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: No possibility
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Evgeniy</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Schoolboy from Russia 🇷🇺</h3>
