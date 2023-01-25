@@ -1,9 +1,8 @@
 # Homework_2035
 - 👋 Hi, I’m @nioregg
 - 💻 I'm Schoolboy
-- 👀 I’m interested in ... ...  ... ... ...
-- 🌱 I’m currently learning ... ... ... ...
+- 👀 I’m interested in LoL, The Crew 2
+- 🌱 I’m currently learning Python
 - 📫 How to reach me:
--- 📨 
--- 📱 +7-900-000-00-00
+-- 📨 Anton@gmail.com
 -- 📱 +7-900-000-00-00
